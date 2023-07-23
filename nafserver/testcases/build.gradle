@@ -1,0 +1,4 @@
+apply plugin: 'java'
+dependencies {
+compile files("f:/PROGRAMMING/project/naf/nafserver/build/libs/nafserver.jar")
+}
